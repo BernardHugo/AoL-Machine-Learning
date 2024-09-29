@@ -1,1 +1,7 @@
 # AoL-Machine-Learning
+
+This repository contains a project or Assurance of Learning (AoL) Machine Learning that has been done by me and my group. Our project explains the creation of a Machine Learning model in predicting concrete strength. In this project, we use 3 algorithms on a dataset containing information about the prediction of the magnitude of the concrete mpa strength based on the materials used in concrete processing by calculating the magnitude of the Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R2-score metrics. However, the results of this project focus on the MSE score which is a measure of the good or bad performance of each model with 3 different algorithms and with a combination of the three algorithms.
+
+The algorithms we use are as follows: Decision Tree, Polynomial Regression, and Random Forest. Also, we also use an ensemble method which is a combination of the three algorithms. In the method, we perform hyperparameter tuning to find the parameters with the best values ​​that produce the smallest error values ​​and the highest accuracy values.
+
+As a result, we see that the model with the Random Forest algorithm has the best performance because the MSE value produced is the smallest of the other algorithms. This means that the Machine Learning model with the Random Forest algorithm offers good performance in solving the problem of predicting the strength of concrete mpa.
